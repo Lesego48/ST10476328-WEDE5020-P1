@@ -1,0 +1,34 @@
+Changelog
+
+ 2026-08-14
+- Completed website with 5 pages: Home, About Us, Adopt, Enquire, Contact.
+- Responsive design for desktop and mobile.
+- Navigation bar with logo.
+- Contact form with validation.
+- Footer with social media links.
+- README.md with project description and GitHub Pages link.
+- Initial research document.
+
+Changed
+- Updated color scheme to match NPO branding.
+- Improved image quality on homepage.
+
+Fixed
+- Fixed broken navigation links between pages.
+- Fixed mobile menu toggle.
+
+2026-08-12
+Added
+- About Us page with mission and team info.
+- Adopt page with 6 dog/cat profiles.
+- Donate page with bank details.
+
+Changed
+- Updated CSS styling for all pages.
+
+2026-08-10
+Added
+- Initial project setup.
+- Created index.html homepage structure.
+- Added basic CSS file.
+- Created GitHub repository.
